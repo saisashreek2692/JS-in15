@@ -7,3 +7,12 @@
 👉 Practice:
 
 - Write small programs (calculator, number checker)
+
+## 📅 Day 1 — Basics but Tricky
+- Two Sum (array)
+- Reverse a String (without built-in reverse)
+- Palindrome Check
+- Find Largest Number in Array
+- FizzBuzz (with clean code)
+
+👉 Focus: logic clarity, edge cases
